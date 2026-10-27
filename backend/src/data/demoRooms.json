@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Classic Comfort",
+    "number": "101",
+    "category": "Standard",
+    "pricePerNight": 2200,
+    "capacity": 2,
+    "description": "A comfortable room with warm interiors and everything you need for a restful stay.",
+    "imageUrl": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1200&q=80",
+    "amenities": ["Wi-Fi", "Air conditioning", "TV", "Work desk"],
+    "status": "available"
+  },
+  {
+    "name": "Deluxe Retreat",
+    "number": "202",
+    "category": "Deluxe",
+    "pricePerNight": 3800,
+    "capacity": 2,
+    "description": "A spacious room with upgraded amenities and a calm, contemporary design.",
+    "imageUrl": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80",
+    "amenities": ["Wi-Fi", "Air conditioning", "Smart TV", "Mini fridge"],
+    "status": "available"
+  },
+  {
+    "name": "Ocean Breeze Deluxe",
+    "number": "305",
+    "category": "Deluxe",
+    "pricePerNight": 4200,
+    "capacity": 2,
+    "description": "Wake up to gentle coastal light and calm ocean breezes. Thoughtfully appointed with warm wooden accents and premium linens.",
+    "imageUrl": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80",
+    "amenities": ["Wi-Fi", "Air conditioning", "Sea View", "Breakfast included", "Coffee maker"],
+    "status": "available"
+  },
+  {
+    "name": "Urban Suite",
+    "number": "301",
+    "category": "Suite",
+    "pricePerNight": 6200,
+    "capacity": 3,
+    "description": "A refined suite with a lounge area for guests who want a little more space.",
+    "imageUrl": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1200&q=80",
+    "amenities": ["Wi-Fi", "Lounge", "Mini fridge", "Room service"],
+    "status": "available"
+  },
+  {
+    "name": "Family Haven",
+    "number": "401",
+    "category": "Family",
+    "pricePerNight": 5100,
+    "capacity": 4,
+    "description": "A flexible family room with generous space for a small group or family.",
+    "imageUrl": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=80",
+    "amenities": ["Wi-Fi", "Air conditioning", "Extra beds", "TV"],
+    "status": "available"
+  },
+  {
+    "name": "Mountain View Suite",
+    "number": "501",
+    "category": "Suite",
+    "pricePerNight": 7500,
+    "capacity": 3,
+    "description": "A luxurious top-floor suite featuring panoramic mountain views, a plush king-sized bed, and an expansive private balcony.",
+    "imageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+    "amenities": ["Wi-Fi", "Air conditioning", "Private Balcony", "Mountain View", "Smart TV", "Mini bar"],
+    "status": "available"
+  },
+  {
+    "name": "Presidential Penthouse",
+    "number": "601",
+    "category": "Suite",
+    "pricePerNight": 12500,
+    "capacity": 4,
+    "description": "The ultimate retreat. Features a private jacuzzi, dedicated living and dining lounge, and spectacular panoramic city views.",
+    "imageUrl": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=1200&q=80",
+    "amenities": ["Wi-Fi", "Private Jacuzzi", "24/7 Room Service", "Lounge", "Skyline View", "Dedicated Butler"],
+    "status": "available"
+  }
+]

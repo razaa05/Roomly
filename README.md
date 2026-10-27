@@ -73,6 +73,19 @@ npm run dev      # Starts Vite on http://localhost:5173
 
 ---
 
+## Featured Demo Rooms
+| Room Name | Room # | Category | Price / Night | Capacity | Key Amenities |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Classic Comfort** | 101 | Standard | ₹2,200 | 2 guests | Wi-Fi, Air conditioning, TV, Work desk |
+| **Deluxe Retreat** | 202 | Deluxe | ₹3,800 | 2 guests | Smart TV, Mini fridge, contemporary design |
+| **Ocean Breeze Deluxe** | 305 | Deluxe | ₹4,200 | 2 guests | Sea View, Breakfast included, Coffee maker |
+| **Urban Suite** | 301 | Suite | ₹6,200 | 3 guests | Lounge area, Mini fridge, Room service |
+| **Family Haven** | 401 | Family | ₹5,100 | 4 guests | Extra beds, spacious family layout, TV |
+| **Mountain View Suite** | 501 | Suite | ₹7,500 | 3 guests | Panoramic Mountain View, Private Balcony |
+| **Presidential Penthouse** | 601 | Suite | ₹12,500 | 4 guests | Private Jacuzzi, Butler, Skyline View |
+
+---
+
 ## Deployment (Live on the Internet)
 
 ### 1. Cloud Database (MongoDB Atlas)
